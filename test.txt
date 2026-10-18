@@ -1,1 +1,1 @@
-Zmiana z galezi test1
+Zmiana z gałęzi test1 i test2
